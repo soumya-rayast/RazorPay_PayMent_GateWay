@@ -19,3 +19,4 @@ const PaymentSchema = new Schema({
         required: Date.now
     }
 })
+export default model('payment', PaymentSchema);

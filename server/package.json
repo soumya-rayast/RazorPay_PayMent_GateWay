@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "Server.js",
   "type": "module",
   "scripts": {
@@ -18,5 +17,8 @@
     "nodemon": "^3.1.0",
     "razorpay": "^2.9.3",
     "uuid": "^9.0.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
 }
